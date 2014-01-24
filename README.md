@@ -25,13 +25,11 @@ spec-0
 - Directory Structure proposal
 - Domain Models
   - End of anemic models
- 
 
 spec-1
 ------
 
 - Bounded contexts
-- 
 
 spec-2
 ------
